@@ -1,0 +1,7 @@
+com\shared\dtos\model\AuthenticationResponse.class
+com\shared\dtos\model\Order.class
+com\shared\dtos\model\Product.class
+com\shared\dtos\commonobjects\App.class
+com\shared\dtos\model\Customer.class
+com\shared\dtos\model\User.class
+com\shared\dtos\model\AuthenticationRequest.class
